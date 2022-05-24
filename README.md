@@ -1,3 +1,1 @@
-- 👋 Hi, I’m @Hazhaiqal
-- 🌱 I’m currently learning ...
-- 
+- 👋 Hi, I’m @Hazhaiqal 
